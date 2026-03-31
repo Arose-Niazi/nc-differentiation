@@ -1,0 +1,16 @@
+{
+    "name": "Numerical Differentiation Calculator",
+    "short_name": "NC Differentiation",
+    "description": "Step-by-step numerical differentiation calculator supporting Newton's forward/backward, Stirling's, and finite difference methods",
+    "start_url": "/differentiation/",
+    "display": "standalone",
+    "background_color": "#f8fafc",
+    "theme_color": "#4361ee",
+    "icons": [
+        {
+            "src": "favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ]
+}
